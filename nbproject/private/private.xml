@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/repositorios/RepositorioReserva.java</file>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/exceptions/DIException.java</file>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/interfaces/IRepositorioReserva.java</file>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/entidades/PessoaVip.java</file>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/exceptions/PNEException.java</file>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/controle/Hotel.java</file>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/exceptions/PJCException.java</file>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/entidades/Reserva.java</file>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/controle/HotelMain.java</file>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/entidades/Quarto.java</file>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/repositorios/RepositorioPessoa.java</file>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/repositorios/RepositorioQuarto.java</file>
+            <file>file:/C:/Users/Amand/OneDrive/Documentos/NetBeansProjects/HotelTrabalhoPOO/src/hotel/entidades/Pessoa.java</file>
+        </group>
+    </open-files>
+</project-private>
